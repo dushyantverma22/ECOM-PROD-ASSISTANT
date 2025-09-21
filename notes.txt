@@ -1,0 +1,2 @@
+1. Astra db is vector db ---> build on top of cassandra (NO SQL db)
+2. Selenium and Beautifulsoup for web scrapping
